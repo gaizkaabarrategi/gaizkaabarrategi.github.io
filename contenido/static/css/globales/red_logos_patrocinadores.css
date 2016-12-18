@@ -1,0 +1,130 @@
+/*
+---------------------------------------
+ESPECIAL LOGOS
+Version: Diciembre - 2009
+--------------------------------------
+*/
+
+#pie_pagina  ul#patrocinadores {
+list-style-type:none;
+text-align:left;
+position:relative;
+display:block;}
+
+*+html #pie_pagina  ul#patrocinadores {margin:0 !important;top:-10px;}
+
+#pie_pagina ul#patrocinadores li {
+display:inline;}
+
+#pie_pagina  ul#patrocinadores li  {height:1.3em;}
+
+#pie_pagina  ul#patrocinadores li  a,
+#pie_pagina  ul#patrocinadores li  div  {
+color:#151515;
+padding-right:0;
+margin-top:4px !important;
+float:left;
+display:block;}
+
+
+#pie_pagina  ul#patrocinadores li a span, #pie_pagina  ul#patrocinadores li div span {
+text-indent:-10000px;
+overflow:hidden;
+position:absolute;} 
+
+#pie_pagina  ul#patrocinadores li  a#avanza {
+width:107px;
+margin-left:0;
+float:left;
+height:47px;
+background:transparent url("../../img/00_logo_avanza_02.jpg") 0 0 no-repeat;}
+
+#pie_pagina #avanza_largo {
+display:block;
+text-align:left;
+margin-top:40px;
+height:21px;
+background:#dfdfdf}
+
+#pie_pagina #avanza_largo a {
+display:block;
+height:21px;
+margin:0 !important;
+background:#dfdfdf url("../../img/00_logo_avanza_largo.jpg") 0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#industria {
+width:84px;
+height:47px;
+margin-left:3px;
+background:transparent url("../../img/00_logo_mitc.gif") 0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#secretaria {
+width:83px;
+height:47px;
+background:transparent url("../../img/00_logo_sec.jpg") 0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#redes {
+width:51px;
+height:47px;
+margin-left:9px;
+background:transparent url("../../img/logo_red.jpg") 0 16px no-repeat;}
+
+* html #pie_pagina  ul#patrocinadores li  a#redes {
+margin-left:5px;
+}
+
+#pie_pagina  ul#patrocinadores  li  a#educacion {
+width:70px;
+padding-right:0;
+height:47px;
+margin-left:3px;
+background:transparent url("../../img/00_logo_mepd.gif") 0 0 no-repeat;}
+
+* html #pie_pagina ul#patrocinadores li  a#educacion {margin-left:2px;}
+
+#pie_pagina  ul#patrocinadores li  a#gl {
+width:60px;
+margin-left:0;
+padding-right:0;
+height:47px;
+background:transparent url("../../img/gl.gif")  0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#gobespania {
+width:90px;
+margin-left:0;
+padding-right:0;
+height:47px;
+background:transparent url("../../img/00_logo_gobierno.gif")  0 0 no-repeat;}
+
+#pie_pagina ul#patrocinadores li  a#plan_e {
+width:74px;
+margin-left:0;
+padding-right:0;
+height:47px;
+background:transparent url("../../img/00_plane.gif")  0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#feder {
+width:157px;
+height:47px;
+background:transparent url("../../img/00_logo_europa.gif")  0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#logo_ifstic {
+width:132px;
+height:47px;
+background:transparent url("../../img/00_logo_isftic.jpg")  0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#logo_ite {
+width:53px;
+height:47px;
+margin-left:2px;
+background:transparent url("../../img/00_logo_ite.gif")  0 0 no-repeat;}
+
+#pie_pagina  ul#patrocinadores li  a#logo_ce {
+width:61px;
+height:47px;
+margin-left:2px;
+background:transparent url("../../img/00_c_online.gif")  0 0 no-repeat;}
+
+#pie_pagina  ul li  a#feder {margin-left:3px;}
+
+#pie_pagina .oculto {display:none}

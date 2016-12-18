@@ -1,0 +1,31 @@
+/*
+---------------------------------------
+PLANTILLA PARA INTERNET EXPLORER 5 MACINTOSH (como Handheld)
+--------------------------------------
+*/
+
+body, ul, div, fieldset, form, h1, h2, h3, h4, html, img, input, legend, li, object, ol, pre, select, span, table, tr, td {
+margin:0;
+padding:0;}
+
+body {
+background:#fff;
+color:#000;
+padding-left:0.5em;
+font-family:"Trebuchet MS",Verdana,Arial,Sans-serif;}
+
+a {color:#36c;background:#fff;}
+a:active {color:#36c;background:#fff;}
+a:link {color:#36c;background:#fff;}
+a:hover {text-decoration:none;}
+
+
+ol {line-height:180%;}
+ul {left:0;position:relative;margin-top:0.8em;margin-left:1em;line-height:180%;}
+ul ul {left:0;position:relative;margin-top:0.8em;margin-bottom:0.8em;margin-left:1em;}
+ul ul ul {left:0;position:relative;margin-top:0.8em;margin-bottom:0.8em;margin-left:1em;}
+ol {left:0;position:relative;margin-top:0.8em;margin-left:1.5em;}
+
+h1 {margin-bottom:0.4em;margin-top:0.4em}
+h2 {margin:1em 0}
+h3 {margin:0.6em 0}

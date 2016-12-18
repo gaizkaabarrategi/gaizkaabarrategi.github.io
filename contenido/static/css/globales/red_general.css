@@ -1,0 +1,28 @@
+/*
+---------------------------------------
+Plantilla General
+Version: Diciembre-2009
+--------------------------------------
+*/
+
+/* ----- Plantilla Madre que efectua la llamada a las restantes hojas de estilo  ----  */
+
+/* Especifidades para Microsoft Internet Explorer   */
+@import url('red_plan_ie_win.css');
+
+/* ----- Elementos de formato y comunes a muchas plantillas ---  */	
+@import/**/"red_tablas.css";
+@import/**/"red_cabecera_pie.css";
+@import/**/"red_formularios.css";
+
+/* ----- Elementos principales de formato ---  */	
+@import/**/"red_global.css";
+
+/* ----- Menus y elementos de navegacion ---  */
+@import/**/"red_navegacion.css";
+@import/**/"red_arbol.css";
+
+
+
+
+

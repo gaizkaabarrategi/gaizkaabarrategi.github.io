@@ -1,0 +1,25 @@
+/*
+---------------------------------------
+RED (Redireccionamiento)
+--------------------------------------
+*/
+
+/* --- Plantilla Index de llamada a la totalidad de CSS del proyecto ----  */	
+
+
+/* Plantilla General (IE, Mozilla y resto de browsers) */
+/*\*/ @import url("red_general.css");
+
+
+/* Plantilla CSS especifica  para IE5/Mac */
+/*\*//*/
+  @import "red_ie5_mac.css";
+/**/
+
+
+/* Plantilla CSS especifica  para IE5/Windows */
+@media tty {
+ i{content:"\";/*" "*/}} @import 'red_ie5_win.css'; /*";}
+}/* */
+
+

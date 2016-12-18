@@ -1,0 +1,133 @@
+/*
+---------------------------------------
+ESPECIAL LOGOS PLANTILLA NEUTRA
+Version: Diciembre - 2009
+--------------------------------------
+*/
+
+div#ccaa_flash {
+padding:0;
+color:#ccc;
+width:140px;
+height:47px;
+top:36px;
+float:right;
+overflow:hidden;
+position:relative;
+margin-right:16px;
+background:transparent;}
+
+#cabecera #ccaa_flash {top:46px !important;}
+#cabecera02 #ccaa_flash {top:31px !important;}
+
+* html div#ccaa_flash {margin-left:5px;}
+
+
+#cabecera02 .destacado_patros {margin-top:32px;}
+
+
+.destacado_patros {
+margin-top:46px;
+float:right;
+margin-right:6px;
+height:73px;}
+
+ul#patrocinadores {
+display:block;
+width:602px;
+clear:both;
+float:left;
+position:relative;
+height:50px;}
+
+* html ul#patrocinadores {width:666px;}
+
+ul#patrocinadores li {
+display:inline;}
+
+ul#patrocinadores li  {height:1.3em;}
+
+ul#patrocinadores li  a,
+ul#patrocinadores li  div  {
+color:#151515;
+padding-right:0;
+float:left;
+display:block;}
+
+
+ul#patrocinadores li a span, ul#patrocinadores li div span {
+text-indent:-10000px;
+overflow:hidden;
+position:absolute;}
+
+ul#patrocinadores li  a#industria {
+width:84px;
+height:47px;
+margin-left:3px;
+background:transparent url("../../img/00_logo_mitc.gif") 0 0 no-repeat;}
+
+ ul#patrocinadores li  a#secretaria {
+width:83px;
+height:47px;
+background:transparent url("../../img/00_logo_sec.jpg") 0 0 no-repeat;}
+
+ ul#patrocinadores li  a#redes {
+width:51px;
+height:47px;
+margin-left:9px;
+background:transparent url("../../img/logo_red.jpg") 0 16px no-repeat;}
+
+* html ul#patrocinadores li  a#redes {
+margin-left:5px;
+}
+
+ ul#patrocinadores li  a#gl {
+width:58px;
+margin-left:0;
+padding-right:0;
+height:47px;
+background:transparent url("../../img/gl.gif")  0 0 no-repeat;}
+
+ul#patrocinadores  li  a#educacion {
+width:70px;
+padding-right:0;
+height:47px;
+margin-left:3px;
+background:transparent url("../../img/00_logo_mepd.gif") 0 0 no-repeat;}
+
+* html #pie_pagina ul#patrocinadores li  a#educacion {margin-left:2px;}
+
+ul#patrocinadores li  a#gobespania {
+width:90px;
+margin-left:0;
+padding-right:0;
+height:47px;
+background:transparent url("../../img/00_logo_gobierno.gif")  0 0 no-repeat;}
+
+ul#patrocinadores li  a#plan_e {
+width:74px;
+margin-left:0;
+padding-right:0;
+height:47px;
+background:transparent url("../../img/00_plane.gif")  0 0 no-repeat;}
+
+ul#patrocinadores li  a#feder {
+width:157px;
+height:47px;
+background:transparent url("../../img/00_logo_europa.gif")  0 0 no-repeat;}
+
+ul#patrocinadores li  a#logo_ifstic {
+width:132px;
+height:47px;
+background:transparent url("../../img/00_logo_isftic_neutro.gif")  0 0 no-repeat;}
+
+
+#cabecera .oculto {display:none}
+
+ ul#patrocinadores li  a#logo_ite {
+width:53px;
+height:47px;
+margin-left:2px;
+background:transparent url("../../img/00_logo_ite.gif")  0 0 no-repeat;}
+
+

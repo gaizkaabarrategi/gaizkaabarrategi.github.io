@@ -1,0 +1,1216 @@
+/*
+---------------------------------------
+FORMULARIOS
+Version: Diciembre-2009
+--------------------------------------
+*/
+
+.globito {width:830px !important;}
+.globito input.input_medio_largo {width:290px !important;}
+*+html .globito input.input_medio_largo {width:290px !important;}
+* html .globito input.input_medio_largo {width:290px !important;}
+.input_largo_lar {width:710px !important;margin-right:24px;}
+
+*+html .input_largo_lar {width:690px !important;}
+.input_largo_02 {width:602px !important;}
+* html .input_largo_02 {width:592px !important;}
+*+html .input_largo_02 {width:592px !important;}
+.input_largo_03 {width:636px !important}
+*+html .input_largo_03 {width:616px !important}
+* html .input_largo_03 {width:616px !important}
+.input_largo_04 {width:560px !important}
+*+html .input_largo_04 {width:530px !important}
+.input_largo_05 {width:716px !important}
+*+html .input_largo_05 {width:696px !important}
+* html .input_largo_05 {width:696px !important}
+.input_largo_06 {width:610px !important}
+*+html .input_largo_06 {width:590px !important}
+* html .input_largo_06 {width:590px !important}
+.input_largo_07 {width:608px !important}
+*+html .input_largo_07 {width:590px !important}
+*+html .input_largo_07 {width:590px !important}
+.input_largo_08 {width:506px !important}
+textarea.input_largo_lar {width:624px !important;margin-right:24px;}
+.select_lrg3 {width:870px !important;}
+*+html .select_lrg3 {width:840px !important;}
+* html .select_lrg3 {width:840px !important;}
+.globito9 {width:798px !important;margin-left:10px}
+.globito3 {width:725px !important;margin-left:15px}
+.globito5 {width:725px !important;margin-left:0}
+*+html .globito5 {width:725px !important;margin-left:0}
+* html .globito5 {width:725px !important;margin-left:0}
+.globito4 {width:734px !important;margin-left:8px;}
+.globito2 {width:100%;}
+* html .globito {width:905px !important;}
+*+html .globito3 {position:relative}
+* html .globito3 {width:350px !important;margin-left:8px;position:relative}
+* html .globito4 {width:716px !important;margin-left:5px}
+*+html .globito4 {width:696px !important;margin-left:5px}
+
+
+
+/* ----------------------------------------------------- */		
+/* -------- Formularios --------------------- */	
+
+#formulario input.boton_exam,
+.formu input.boton_exam,
+#formulario_03 input.boton_exam,
+#formulario_02 input.boton_exam {
+width:91px;
+color:#333;
+height:19px;
+margin-left:1em;
+background:#D8E6F3;
+float:none;
+vertical-align:bottom;
+font-size:90%;
+font-weight:bold;
+}
+
+#formulario input.boton_exam3,
+.formu input.boton_exam3,
+#formulario_02 input.boton_exam3 {
+width:125px;
+color:#333;
+height:19px;
+margin-left:1em;
+background:#D8E6F3;
+float:none;
+vertical-align:bottom;
+font-size:90%;
+font-weight:bold;
+}
+
+
+
+* html #formulario input.boton_exam,
+* html .formu input.boton_exam,
+* html #formulario_03 input.boton_exam,
+* html #formulario_02 input.boton_exam  {
+height:17px;
+}
+
+#formulario  input.selrecurso0,
+.formu input.selrecurso0,
+#formulario_03  input.selrecurso0, 
+#formulario_02  #formulario  input.selrecurso0 {
+width:50%;
+}
+
+#formulario input.selimagen0 {width:300 !important}
+
+#formulario  input.selimagen0,
+.formu  input.selimagen0,
+#formulario_03 input.selimagen0,
+#formulario_02  input.selimagen0 {
+width:100%;
+}
+
+* html #formulario  input.selimagen0,
+* html .formu  input.selimagen0,
+* html #formulario_03  input.selimagen0,
+* html #formulario_02  input.selimagen0 {
+width:90%;
+}
+
+*+html #formulario  input.selimagen0,
+*+html .formu  input.selimagen0,
+*+html #formulario_03  input.selimagen0,
+*+html #formulario_02  input.selimagen0 {
+width:88%;
+}
+
+
+#formulario  input.selfuente,
+.formu  input.selfuente,
+#formulario_03 input.selfuente,
+#formulario_02  input.selfuente {
+width:100%;
+}
+
+* html #formulario  input.selfuente,
+* html .formu  input.selfuente,
+* html #formulario_03  input.selfuente,
+* html #formulario_02  input.selfuente {
+width:90%;
+}
+
+
+*+html .formu  input.selfuente,
+*+html #formulario  input.selfuente,
+*+html #formulario_03  input.selfuente,
+*+html #formulario_02  input.selfuente {
+width:90%;
+}
+
+
+
+input.check02 {display:inline !important;border:0 !important;width:14px !important;}
+
+#formulario .caja_tabla  input,
+.formu .caja_tabla  input,
+#formulario_02 .caja_tabla  input, 
+#formulario_03 .caja_tabla  input {
+font-size:90%;
+border:0;
+height:auto;
+color:#4b4b4b;
+width:auto;
+margin-bottom:0;
+margin-top:3px;
+}
+
+
+#formulario input.boton_radio,
+.formu input.boton_radio,
+#formulario_02 input.boton_radio,
+#formulario_03 input.boton_radio {
+float:none;
+border:0;
+width:15px;
+margin-right:5px;
+left:0;
+vertical-align:bottom;
+}
+
+
+#formulario input.boton_check {
+float:none;
+border:0;
+width:15px;
+margin-right:5px;
+left:0;
+}
+
+
+
+#formulario input.marginadito,
+.formu input.marginadito,
+#formulario_02 input.marginadito,
+#formulario_03 input.marginadito {
+margin-left:10px;
+}
+
+#formulario .caja_tabla ,
+.formu .caja_tabla ,
+#formulario_02 .caja_tabla,
+#formulario_03 .caja_tabla {font-size:100%;line-height:70%}
+
+#formulario  strong, #formulario_02  strong, #formulario_03  strong {
+line-height:2%;
+vertical-align:top;
+font-weight:normal;}
+
+
+html:lang(es)>body #formulario  strong,
+html:lang(es)>body #formulario_02  strong,
+html:lang(es)>body .formu  strong {padding-top:6px;} 
+
+* html #formulario  strong,
+* html .formu  strong,
+* html #formulario_03  strong, 
+* html #formulario_02  strong {padding-top:6px;} 
+
+#formulario  select#Categoria,
+.formu  select#Categoria,
+#formulario_03  select#Categoria,
+#formulario_02  select#Categoria {
+width:83%;
+margin-left:0.5em;
+}
+
+html:lang(es)>body #formulario  select#Categoria,
+html:lang(es)>body .formu  select#Categoria,
+html:lang(es)>body #formulario_03  select#Categoria,
+html:lang(es)>body #formulario_02  select#Categoria {
+width:84.8%;
+margin-left:0.5em;
+}
+
+
+* html #formulario  select#Categoria,
+* html .formu  select#Categoria,
+* html #formulario_03  select#Categoria,
+* html #formulario_02  select#Categoria {
+width:84.5%;
+}
+
+*+html #formulario  select#Categoria,
+*+html .formu  select#Categoria,
+*+html #formulario_03  select#Categoria,
+*+html #formulario_02  select#Categoria {
+width:84.8%;
+}
+
+
+#formulario  select#Proposito,
+#formulario_03  select#Proposito,
+#formulario_02  select#Proposito,
+#formulario  select#valoracion,
+#formulario_03  select#valoracion,
+#formulario_02  select#valoracion {
+width:70%;}
+
+.formu input.nuevaCat,#formulario input.nuevaCat, #formulario_02 input.nuevaCat,  #formulario_03 input.nuevaCat {
+width:83%;
+margin-left:0.9em;}
+
+* html .formu input.nuevaCat, * html  #formulario input.nuevaCat, * html  #formulario_02 input.nuevaCat, * html  #formulario_03 input.nuevaCat {
+width:86%;
+margin-left:0.9em;}
+
+*+html .formu input.nuevaCat, *+html  #formulario input.nuevaCat, *+html  #formulario_02 input.nuevaCat, *+html  #formulario_03 input.nuevaCat {
+width:84.6%;
+margin-left:0.9em;}
+
+html:lang(es)>body .formu input.nuevaCat,
+html:lang(es)>body  #formulario input.nuevaCat,
+html:lang(es)>body #formulario_02 input.nuevaCat,
+html:lang(es)>body  #formulario_03 input.nuevaCat {
+width:84.7%;
+margin-left:0.9em;}
+
+
+#formulario label, #formulario_02 label,  #formulario_03 label, .formu label {
+color:#4b4b4b;
+display:block;
+padding-left:0;
+padding-right:0;
+font-size:90%;
+width:120px;
+padding-top:5px;
+}
+
+#formulario label.alineada,
+.formu label.alineada,
+#formulario label.alineada2,
+#formulario label.alineada3 {
+display:inline;
+width:auto;
+border:0;
+line-height:40% !important;
+padding-top:0;
+top:-10px;
+position:relative;
+}
+
+* html #formulario label.alineada,
+* html #formulario label.alineada2,
+* html #formulario label.alineada3,
+* html .formu label.alineada,
+* html .formu  label.alineada2,
+* html .formu label.alineada3,
+* html #formulario_03 label.alineada,
+* html #formulario_03 label.alineada2,
+* html #formulario_03 label.alineada3,
+* html #formulario_02 label.alineada,
+* html #formulario_02 label.alineada2,
+* html #formulario_02 label.alineada3  {
+position:static;
+}
+
+
+
+label.forward_si {
+display:inline;
+width:auto;
+padding:1.2em;
+border:0;
+position:relative;
+background:transparent url("../../img/icono_forward_si.gif") 0 5px no-repeat}
+
+label.forward_no {
+display:inline;
+width:auto;
+padding:1.2em;
+border:0;
+position:relative;
+background:transparent url("../../img/icono_forward_no.gif") 0 5px no-repeat}
+
+
+label.choice_exit_si{
+display:inline;
+width:auto;
+padding:1.2em;
+border:0;
+position:relative;
+background:transparent url("../../img/icono_choice_exit_si.gif") 0 5px no-repeat}
+
+label.choice_exit_no {
+display:inline;
+width:auto;
+padding:1.2em;
+border:0;
+position:relative;
+background:transparent url("../../img/icono_choice_exit_no.gif") 0 5px no-repeat}
+
+label.choice_si{
+display:inline;
+width:auto;
+padding:1.2em;
+border:0;
+position:relative;
+background:transparent url("../../img/icono_choice_si.gif") 0 5px no-repeat}
+
+label.choice_no {
+display:inline;
+width:auto;
+padding:1.2em;
+border:0;
+position:relative;
+background:transparent url("../../img/icono_choice_no.gif") 0 5px no-repeat}
+
+
+label.flow_si {
+display:inline;
+width:auto;
+padding:1.2em;
+position:relative;
+background:transparent url("../../img/icono_flow_si.gif") 0 5px no-repeat}
+
+label.flow_no {
+display:inline;
+width:auto;
+padding:1.2em;
+border:0;
+position:relative;
+background:transparent url("../../img/icono_flow_no.gif") 0 5px no-repeat}
+
+label.forward_si span,
+label.forward_no span,
+label.choice_exit_no span,
+label.choice_exit_si span,
+label.choice_no span,
+label.choice_si span,
+label.flow_si span,
+label.flow_no span {
+text-indent:-6000px;
+display:inline;
+position:absolute;
+}
+
+#formulario_02 label.alineada,
+#formulario_02 label.alineada2 {
+display:inline;
+width:auto;
+border:0;
+line-height:40% !important;
+padding-top:0;
+top:-10px;
+position:relative;
+}
+
+#formulario_03 label.alineada,
+#formulario_03 label.alineada2 {
+display:inline;
+width:auto;
+border:0;
+line-height:40% !important;
+padding-top:0;
+top:-10px;
+position:relative;
+}
+
+* html #formulario label.alineada,
+* html .formu label.alineada {
+padding-right:6.1em;
+}
+
+
+html:lang(es)>body #formulario label.alineada {padding-right:6.6em;}
+html:lang(es)>body .formu label.alineada {padding-right:6.6em;}
+
+#formulario label.alineada {
+padding-right:5.5em;
+}
+
+*+html #formulario label.alineada {
+padding-right:6.2em;
+}
+
+.formu label.alineada {
+padding-right:5.5em;
+}
+
+*+html .formu  label.alineada {
+padding-right:6.2em;
+}
+
+*+html #formulario_02 label.alineada {
+padding-right:6em;
+}
+
+
+#formulario label.alineada2 {
+padding-right:5em;
+}
+
+.formu label.alineada2 {
+padding-right:5em;
+}
+
+
+* html #formulario_02 label.alineada {
+padding-right:6em;
+}
+
+#formulario_02 label.alineada {
+padding-right:5.5em;
+}
+
+html:lang(es)>body  #formulario_02 label.alineada {
+padding-right:6.6em;
+}
+
+
+#formulario label.alineada3 {
+padding-right:9.1em;
+}
+
+.formu label.alineada3 {
+padding-right:9.1em;
+}
+
+#formulario_02 label.alineada2 {
+padding-right:5em;
+}
+
+#formulario label.alineada3 {
+padding-right:10.5em;
+top:-14px;
+}
+
+#formulario label.alineada2,
+#formulario_02 label.alineada2 {
+padding-right:5.8em;
+top:-14px;
+}
+
+html[xmlns*=""] body:last-child #formulario_02 label.alineada  {top:0 !important;}
+html[xmlns*=""] body:last-child #formulario_02 label.alineada2  {top:0 !important;}
+html[xmlns*=""] body:last-child #formulario_02 label.alineada3  {top:0 !important;}
+
+html[xmlns*=""] body:last-child #formulario_03 label.alineada  {top:0 !important;}
+html[xmlns*=""] body:last-child #formulario_03 label.alineada2  {top:0 !important;}
+html[xmlns*=""] body:last-child #formulario_03 label.alineada3  {top:0 !important;}
+
+html[xmlns*=""] body:last-child #formulario label.alineada  {top:0 !important;}
+html[xmlns*=""] body:last-child #formulario label.alineada2  {top:0 !important;}
+html[xmlns*=""] body:last-child #formulario label.alineada3  {top:0 !important;}
+
+ #formulario label.alineada,
+ #formulario_02 label.alineada,
+ #formulario_03 label.alineada   {
+top:-14px;
+}
+
+
+* html #formulario label.alineada3 {
+padding-right:10em;
+}
+
+* html #formulario label.alineada2,
+* html #formulario_02 label.alineada2 {
+padding-right:5.1em;
+}
+
+*+html #formulario label.alineada3  {
+padding-right:10em;
+}
+
+*+html #formulario label.alineada2,
+*+html .formu label.alineada2, 
+*+html #formulario_02 label.alineada2  {
+padding-right:5.1em;
+}
+
+* html #formulario label.alineada,
+* html #formulario label.alineada2 {
+top:3px;
+}
+
+* html #formulario label.alineada3 {
+top:3px;
+}
+
+* html #formulario_02 label.alineada,
+* html #formulario_02 label.alineada2 {
+top:3px;
+}
+
+*+html #formulario label.alineada3 {
+top:2px;
+}
+
+*+html #formulario label.alineada,
+*+html #formulario label.alineada2,
+*+html #formulario_02 label.alineada,
+*+html #formulario_02 label.alineada2,
+*+html #formulario_03 label.alineada,
+*+html #formulario_03 label.alineada2 {
+top:2px ;
+}
+
+#formulario  input, #formulario_02  input, #formulario_03  input, .formu  input {
+font-size:90%;
+height:17px;
+color:#4b4b4b;
+width:90%;
+margin-bottom:10px;
+margin-top:3px;
+}
+
+
+* html #catalogador #formulario  input,
+* html #catalogador #formulario_02  input,
+* html #catalogador #formulario_03  input,
+* html #catalogador .formu  input {
+width:110%;
+}
+
+
+* html #catalogador #formulario select ,
+* html #catalogador #formulario_03 select ,
+* html #catalogador #formulario_02 select  ,
+* html #catalogador .formu select   {
+width:110%;
+}
+
+* html #catalogador #formulario textarea,
+* html #catalogador .formu textarea,  
+* html #catalogador #formulario_02 textarea {
+width:110%;
+}
+
+
+#formulario input.fecha_dia,
+#formulario input.fecha_horas,
+.formu input.fecha_dia,
+.formu input.fecha_horas,
+#formulario_02 input.fecha_dia,
+#formulario_02 input.fecha_horas {
+width:24px;
+}
+
+#formulario input.fecha_mes, 
+#formulario input.fecha_minutos,
+.formu input.fecha_mes, 
+.formu  input.fecha_minutos,
+#formulario_02 input.fecha_mes, 
+#formulario_02 input.fecha_minutos {
+width:24px;
+margin-right:10px;
+margin-left:10px;
+}
+
+#formulario input.fecha_anio,
+#formulario input.repetir_fecha_anio,
+.formu input.fecha_anio,
+.formu input.repetir_fecha_anio,
+#formulario_02 input.fecha_anio,
+#formulario_02 input.repetir_fecha_anio {
+width:36px;
+margin-right:10px;
+}
+
+#formulario input.fecha_anio00,
+#formulario input.repetir_fecha_anio00,
+#formulario_02 input.fecha_anio00,
+#formulario_02 input.repetir_fecha_anio00 {
+width:36px;
+height:16px;
+margin-right:5px;
+}
+
+
+*+html #formulario input.fecha_dia,
+*+html .formu input.fecha_dia,
+*+html #formulario_02 input.fecha_dia {width:20px;}
+html:lang(es)>body #formulario input.fecha_dia,
+html:lang(es)>body .formu input.fecha_dia,
+html:lang(es)>body #formulario_02 input.fecha_dia  {width:20px;}
+
+#formulario textarea,
+.formu textarea,  
+#formulario_02 textarea {
+color:#414141;
+background:#fff;
+margin-bottom:10px;
+padding-top:2px;
+width:90%;
+font:normal 100% "Trebuchet MS",Verdana,Arial, sans-serif;
+margin-top:2px;}
+
+
+#formulario select, #formulario_02 select, #formulario_03 select, .formu select {
+color:#414141;
+font-family:Verdana,Arial, sans-serif;
+font-size:100%;
+background:#fff;
+margin-top:3px;
+margin-bottom:10px;
+height:17px;
+width:90%;}
+
+select#masAcciones  {
+color:#414141;
+font-family:Verdana,Arial, sans-serif;
+font-size:70%;
+background:#fff;
+margin-top:10px;
+margin-bottom:10px;
+height:18px;
+width:30%}
+
+* html select#masAcciones {font-size:70%;width:auto !important;padding-right:0 !important;}
+*+html select#masAcciones {font-size:70%;height:19px;}
+
+#formulario select#idiomaBuscadorContenido,
+#formulario_02 select#idiomaBuscadorContenido {width:25%;top:1px;position:relative;margin-right:10px;}
+
+#formulario input.nombreGrupo,
+#formulario input.nombreElemento,
+#formulario input.nombreOrg,
+#formulario input.nombreCarpeta {
+width:50% !important;
+margin:0 auto;}
+
+* html #formulario input.nombreGrupo {margin-top:3px}
+* html #formulario input.nombreCarpeta {margin-top:3px}
+
+
+#formulario input#buscadorContenido,
+#formulario_02 input#buscadorContenido  {width:25%;margin-right:10px;}
+#formulario_02 input#buscadorContenidoSolo,
+#formulario input#buscadorContenidoSolo
+ {width:51.5%;margin-right:10px;}
+
+* html input#buscadorContenido {top:0;height:19px;position:static !important;}
+*+html input#buscadorContenido {top:0;height:17px;position:relative;}
+* html select#idiomaBuscadorContenido {top:-1px;position:static !important;}
+*+html select#idiomaBuscadorContenido {top:-3px;position:relative;}
+
+
+#formulario select.tipoTarea {width:90%;}
+
+#formulario_02 select.tipoTarea {width:90%;}
+
+*+html #formulario select {height:18px}
+*+html #formulario_02 select {height:18px}
+
+#buscador {
+font-family:verdana, arial, Helvetica, sans-serif;
+padding-left:0;
+text-align:right;
+padding-top:1.9em;
+}
+
+#buscador label {
+font-size:60%;
+vertical-align:bottom;
+padding-left:0.5em;
+padding-right:1.6em;
+color:#4b4b4b;}
+
+* html #buscador label {
+padding-left:0;
+}
+
+*+html #buscador label {
+padding-left:0;
+}
+
+#capa_madre #buscador  a.avanzado {
+display:block;
+z-index:100;
+position:relative;
+float:right;
+margin-left:10px;
+margin-right:10px;
+font-size:65%;
+line-height:280%;
+text-decoration:underline;
+}
+
+* html #capa_madre #buscador  a.avanzado {
+margin-right:5px;
+}
+
+#capa_madre #buscador  a.avanzado:hover {
+text-decoration:none;
+}
+
+#capa_madre  #formulario  a.avanzado:hover,
+#capa_madre  #formulario_02  a.avanzado:hover {
+text-decoration:none;
+}
+
+.caja_buscador {
+width:204px !important;
+height:18px;
+padding:0;
+color:#000;
+top:-1px;
+position:relative;
+font-size:70%;
+border:1px solid #555555;
+background:#ffffde;}
+
+.caja_buscador_selector {
+width:148px;
+height:18px;
+top:-2px;
+position:relative;
+padding:0;
+color:#000;
+margin-top:0;
+font-size:70%;
+border:1px solid #555555;
+background:#fdfdfd;}
+
+option.color {background:#ECEBEB}
+option.oscura {background:#ECEBEB}
+
+
+html:lang(es)>body .caja_buscador_selector {
+margin-top:1px;
+top:0;
+}
+
+* html .caja_buscador_selector {
+top:0;
+}
+
+*+html .caja_buscador_selector {
+top:0;
+}
+
+* html .caja_buscador {
+height:19px;
+top:0;}
+
+*+html .caja_buscador_selector {
+top:2px;
+font-size:75%;
+height:22px !important;
+margin-top:0;
+position:relative;
+}
+
+
+
+#formulario .buscar {
+height:19px;
+width:125px;
+position:relative;
+font-size:100%;
+top:-1px;
+margin-left:2px;
+cursor:pointer;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;
+}
+
+
+
+
+html:lang(es)>body  #formulario .buscar {
+top:3px;
+}
+
+* html #formulario .buscar {
+top:3px;
+position:static;
+}
+*+html #formulario .buscar {
+top:1px;
+}
+
+#formulario_02 .buscar {
+height:19px;
+width:125px;
+position:relative;
+font-size:100%;
+top:-1px;
+margin-left:2px;
+cursor:pointer;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;
+}
+
+
+
+html:lang(es)>body  #formulario_02 .buscar {
+top:3px;
+}
+
+* html #formulario_02 .buscar {
+top:3px;
+position:static;
+}
+
+*+html #formulario_02 .buscar {
+top:0px;
+}
+
+.buscar {
+height:23px;
+width:65px;
+position:relative;
+font-size:65%;
+top:-1px;
+margin-left:2px;
+cursor:pointer;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;
+}
+
+
+
+*+html .buscar {
+margin-left:0px;
+top:-1px;
+height:19px;
+}
+
+* html .buscar {
+margin-left:0px;
+top:0;
+height:19px;
+}
+
+fieldset {
+border:0;
+position:relative;
+}
+
+fieldset.tipo {
+margin-top:10px !important;
+}
+
+.tipo {
+margin-top:20px !important;
+}
+
+fieldset.tipo_interior_04 {
+margin-top:10px;
+margin-left:13px;
+margin-right:13px;
+}
+
+* html fieldset.tipo_interior_04 {
+margin-top:10px;
+margin-left:7px;
+margin-right:0;
+}
+
+*+html fieldset.tipo_interior_04 {
+margin-top:10px;
+margin-left:7px;
+margin-right:0;
+}
+
+
+* html #contenido_central_largo fieldset.tipo_interior_04 {
+margin-right:10px;
+}
+
+*+html #contenido_central_largo fieldset.tipo_interior_04 {
+margin-right:10px;
+}
+
+fieldset.tipo_interior_03 {
+margin-top:10px;
+padding-left:0;
+padding-right:0;
+padding-bottom:10px;
+}
+
+* html fieldset.tipo_interior_03 {
+padding-bottom:0;
+}
+*+html fieldset.tipo_interior_03 {
+padding-bottom:0;
+}
+html:lang(es)>body  fieldset.tipo_interior_03 {
+padding-bottom:0;
+}
+
+fieldset.tipo_interior {
+margin-top:10px;
+padding-left:14px;
+padding-right:15px;
+padding-bottom:10px;
+}
+
+* html fieldset.tipo_interior {
+padding-bottom:0;
+}
+*+html fieldset.tipo_interior {
+padding-bottom:0;
+}
+html:lang(es)>body  fieldset.tipo_interior {
+padding-bottom:0;
+}
+
+fieldset.tipo_interior_02 {
+margin-top:10px;
+padding-left:14px;
+padding-right:6px;
+padding-bottom:10px;
+}
+
+table#archivos_basico input {margin-right:8px;}
+
+
+label.buscarlocal {margin-right:157px;}
+html:lang(es)>body label.buscarlocal {margin-right:142px;}
+*+html label.buscarlocal {margin-right:134px;}
+* html label.buscarlocal {margin-right:132px;}
+
+.botonradio {
+position:relative;
+top:3px;
+left:-1px;
+}
+
+* html .botonradio {
+left:-5px;
+}
+
+*+html .botonradio {
+left:-5px;
+}
+
+
+.boton_65_de_3_der {
+width:65px;
+float:right;
+height:20px;
+cursor:pointer;
+display:block;
+line-height:100%;
+margin-top:10px;
+font-size:60%;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;}
+
+#ancho80, #ancho_80 {width:80px !important}
+#ancho170 {width:170px !important}
+
+.boton_125_de_2, 
+.boton_125_de_2_izq {
+width:125px !important;
+height:20px;
+cursor:pointer;
+display:block;
+line-height:100%;
+margin-top:10px;
+font-size:60%;
+font-weight:bold;
+text-decoration:none;
+font-size:11px;
+font-weight:bold;
+color:#fff !important;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0 !important;
+}
+
+input#desactivado {background:#fafafa;color:#aaa !important;cursor:default !important;}
+
+.boton_125_de_22 {
+width:125px !important;
+color:#333;
+height:20px;
+cursor:pointer;
+display:inline;
+line-height:100%;
+margin-top:10px;
+font-size:60%;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;}
+
+.boton_90_de_2, 
+.boton_90_de_2_izq {
+width:90px !important;
+color:#333;
+height:20px;
+cursor:pointer;
+display:block;
+line-height:100%;
+margin-top:10px;
+font-size:60%;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;}
+
+
+.boton_60_de_2, 
+.boton_60_de_2_izq {
+width:60px !important;
+height:20px;
+cursor:pointer;
+display:block;
+line-height:100%;
+margin-top:10px;
+font-size:60%;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;}
+
+.boton_subir {
+width:125px !important;
+height:20px;
+
+cursor:pointer;
+margin:10px auto 0 auto;
+display:block;
+line-height:100%;
+font-size:60%;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0;}
+
+
+.boton_125 {
+width:125px !important;
+height:20px;
+cursor:pointer;
+float:none;
+display:block;
+margin-left:auto;
+position:relative;
+top:10px;
+margin-right:auto;
+line-height:100%;
+font-size:60%;
+font-weight:bold;
+color:#fff !important;
+background:#d11;
+-moz-border-radius: 5px;
+-ms-border-radius:5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+border:0;}
+
+
+.boton_60 {
+width:60px !important;
+height:20px;
+cursor:pointer;
+display:inline;
+margin-left:10px;
+position:relative;
+margin-right:auto;
+line-height:100%;
+font-size:100%;
+font-weight:bold;
+color:#fff;
+background:#d11;
+-moz-border-radius: 5px;
+-ms-border-radius:5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+border:0;}
+
+
+
+.boton_90 {
+width:90px !important;
+height:20px;
+cursor:pointer;
+display:inline;
+margin-left:10px;
+position:relative;
+margin-right:auto;
+line-height:100%;
+font-size:100%;
+font-weight:bold;
+color:#fff !important;
+background:#d11;
+-moz-border-radius: 5px;
+-khtml-border-radius: 5px;
+-webkit-border-radius: 5px;
+-ms-border-radius:5px;
+border-radius: 5px;
+border:0  !important}
+
+
+
+
+.boton_90_de_2 {float:right;margin-right:0}
+.boton_125_de_2 {float:right;margin-right:0}
+.boton_60_de_2 {float:right;margin-right:0}
+* html .boton_125_de_2 {float:right;margin-right:0}
+.boton_125_de_2_izq { float:left;}
+.boton_90_de_2_izq { float:left;}
+.boton_60_de_2_izq { float:left;}
+
+.bot_mar_der {margin-right:5px;}
+
+.bot_mar_izq {margin-left:5px;}
+
+
+
+/* ----------------------------------------------------- */		
+/* ----------------------------------------------------- */		
